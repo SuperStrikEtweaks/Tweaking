@@ -32,3 +32,5 @@
 - [serviwin](https://www.majorgeeks.com/mg/getmirror/serviwin,1.html)
 
 - [Mem Reduct](https://www.majorgeeks.com/files/details/mem_reduct.html)
+
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
